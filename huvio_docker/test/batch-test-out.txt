@@ -1,0 +1,1 @@
+{"dstdir": "/mnt/nas03/phenomx/huvio/huvio_docker/input/output", "total": 3, "result_file": "/mnt/nas03/phenomx/huvio/huvio_docker/input/output/result.csv"}

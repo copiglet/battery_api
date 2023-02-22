@@ -1,0 +1,1 @@
+SET:False, False, ./inference/images
